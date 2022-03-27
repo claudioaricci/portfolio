@@ -8,7 +8,7 @@ Esse é meu **portifólio** estarei atualizando com novos trabalhos .
 
 ## 🚀 Projeto Online
 
-Acessar [portfólio](https://claudioaricci.github.io/portfolio) .
+Acessar [portfólio](https://claudioaricci.github.io/portfolio/index.html) .
 
 ---
 
