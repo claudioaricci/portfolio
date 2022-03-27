@@ -4,13 +4,12 @@ Esse é meu **portifólio** estarei atualizando com novos trabalhos .
 
 ---
 
-<h1><img src="img/portifolio.gif" />  </h1>  
-
+<h1><img src="img/portifolio.gif" />  </h1>
 
 ## 🚀 Projeto Online
 
-Acessar [portifólio](https://claudioaricci.github.io/portifolio/index.html) .
+Acessar [portfólio](https://claudioaricci.github.io/portfolio) .
 
 ---
-Desenvolvido 💜 por Claudio Ricci
 
+Desenvolvido 💜 por Claudio Ricci
