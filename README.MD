@@ -9,7 +9,7 @@ Esse é meu **portifólio** estarei atualizando com novos trabalhos .
 
 ## 🚀 Projeto Online
 
-Acessar [portifólio](https://claudioaricci.github.io/portifolio/index.html) .
+Acessar [portifólio](https://claudioaricci.github.io/portfolio/index.html) .
 
 ---
 Desenvolvido 💜 por Claudio Ricci
